@@ -1,0 +1,32 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Faster+One&family=Permanent+Marker&display=swap');
+
+body{
+
+    background-color: #DDDEE5 ;
+}
+
+h1 {
+    color: #0F2823;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 15px 5px 5px #450cc9;;
+}
+p{
+    font-family: "Permanent Marker", cursive;
+    color: #363a8e;
+} 
+h2{
+    font-family: "Faster One", system-ui;
+
+}
+li {
+  font-weight: 900;
+  font-size:x-large;
+  font-weight: 900;
+  line-height: 2;
+}
+article {
+  text-align: right;
+}

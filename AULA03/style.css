@@ -1,0 +1,39 @@
+html{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(231, 191, 143);
+}
+
+p{
+    font-size: 15px;
+}
+
+p.citacao{
+    text-align: right;
+    font-style: italic;
+    font-size: 14px;
+    color: cornflowerblue;
+    background-color: rgb(24, 0, 159);
+
+}
+
+#titulo{
+    color: rgb(24, 0, 159);
+    text-shadow: 6px 6px 6px rgb(34, 0, 255);
+    text-align: center;
+}
+h1{
+    font-family: "Nosifer", sans-serif;
+}
+ol{
+    margin: 0px;
+}
+article p{
+    color: darkmagenta;
+}
+h2, h3{
+    background-color: rgb(52, 1, 100);
+    color: beige;
+}

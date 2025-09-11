@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    border-top: 1px solid blueviolet;
+    border-right: 5px double blueviolet;
+    border-bottom: 1px solid blueviolet;
+    border-left: 5px double blueviolet;
+    color:rgb(10, 58, 154) ;
+    border-radius: 5px;
+}
+
+img {
+    width: 450px;
+    text-align: right;
+    
+}
+
+figure{
+    border: 10px solid red;
+    width: 450px;
+    height: 335px;
+    border-radius: 10px;
+
+}
