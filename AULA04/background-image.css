@@ -1,0 +1,33 @@
+
+body{
+
+    background-position: center;
+    background-size: cover; 
+    background-image: url(./Imagem\ \ css.png);
+   background-attachment: scroll;
+   background-repeat: no-repeat;
+   height: 100vh;
+
+    }  
+     h1´, p{
+        width: 150px;
+     }
+.container1{
+        height:100vh; 
+        text-align: center;
+        width: 100%;
+        }
+ .container2{
+        height: 100vh;
+        background-image: linear-gradient(to top  violet, yellow);
+
+        }
+.container3{
+        height: 100vh;
+        }
+img{
+           text-align: center;
+height:600px; 
+box-shadow: 5px  5px 4px gray;
+filter: drop-shadow(5px 5px 4px gray);
+        }
